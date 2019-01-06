@@ -1,0 +1,821 @@
+I����ܚ��Ph����D5������,,,���ii7J�bP�h��DHY��h5����p��Ph��ɚ��h������h��R7J�5��q��Dh�D09�,�D���ܚ��Ph����D5������,,,�
+----------POZYX POSITIONING V1.0----------
+NOTES:
+- No parameters required.
+
+- System will auto start anchor configuration
+
+- System 
+will auto start positioning
+----------POZYX POSITIONING V1.0----------
+
+Performing manual anchor configuration:
+list size: 4
+Calibration r
+esult:
+Anchors found: 4
+ANCHOR,0x610B,1,11633,4318
+ANCHOR,0x6139,1,1,4318
+ANCHOR,0x6134,1,1,1
+ANCHOR,0x6113,1,11633,1
+
+Starting positioning: 
+
+POS ID 0x0,2351, x(mm): -63, y(mm): -63, z(mm): 11417
+
+POS ID 0x0,2405, x(mm): -34, y(mm): -3600, z(mm): 10992
+
+POS ID 0x0,2460, x(mm): -24, y(mm): -4118, z(mm): 10985
+
+POS ID 0x0,2510, x(mm): 2, y(mm): 2, z(mm): 11536
+
+POS ID 0x0,2564, x(mm): -8, y(
+mm): -3640, z(mm): 10860
+
+POS ID 0x0,2613, x(mm): -71, y(mm): -71, 
+z(mm): 11296
+
+POS ID 0x0,2662, x(mm): -228, y(mm):
+ -228, z(mm): 11222
+
+POS ID 0x0,2716, x(mm): 10, y(mm): -3656, z(mm): 10829
+
+POS ID 0x0,2770, x(mm): -5, y(mm): -3535, z(mm): 10800
+
+POS ID 0x0,2831, x(mm): -8, y(
+mm): -2890, z(mm): 11013
+
+POS ID 0x0,2884, x(mm): -62, y(mm): -3515, z(mm): 10826
+
+POS ID 0x0,2940, x(mm): 5, y(mm): -3756, z(mm): 10690
+
+POS ID 0x0,2990, x(mm): -145, y(mm): -145, z(mm): 11185
+
+P
+OS ID 0x0,3050, x(mm): -2, y(mm): -2255, z(mm): 11113
+
+POS ID 0x0,3104, x(mm): -222, y(mm): -222, z(mm): 11117
+
+POS ID 0x0,3160, x(mm): -16, y(mm): -3403, z(mm): 10802
+
+POS ID 0x0,3214, x(mm): -24, y(mm): -3475, z(mm)
+: 10731
+
+POS ID 0x0,3268, x(mm): -87, y(mm): -3103, z(mm): 10998
+
+POS ID 0x0,3322, x(mm): -14, y(mm): -3188, z(mm): 10919
+
+POS ID 0x0,3378, x(mm): -119, y(mm): -3119, z(mm): 10897
+
+POS ID 0x0,3438, x(mm): -26, y(mm): -3064, z(mm): 10906
+
+POS ID 0x0,3492, x(mm): -90, y(mm): -3079, z(mm): 10852
+
+POS ID 0x0,3547, x(mm): -30, y(mm): -30
+48, z(mm): 10920
+
+POS ID 0x0,3607, x(mm): 2, y(mm): -2967, z(mm): 11026
+
+POS ID 0x0,3659, x(mm): 0, y(mm): -4557, z(mm): 7018
+
+POS ID 0x0,3720, x(mm): -47, y(mm): -2933, z(mm): 10981
+
+POS ID 0x0,3768, x(mm): 0, y(mm): -5146, z(mm): 6133
+
+POS ID 0x0,3827, x(mm): -29, y(mm): -2741, z(mm): 10943
+
+POS ID 0x0,3888, x(mm): -24, y(mm): -2818, z(mm): 10847
+
+POS ID 0x0,3936, x(mm): -76, y(mm): -76, z(mm): 11057
+
+POS ID 0x0,3990, x(mm): -79, y(mm): -2879, z(mm): 10862
+
+POS ID 0x0,4043, x(mm): -79, y(mm): -2844, z(mm): 10883
+
+POS ID
+ 0x0,4099, x(mm): 0, y(mm): -5028, z(mm): 6103
+
+POS ID 0x0,4153, x(mm): -65, y(mm): -2864, z(mm): 10872
+
+POS ID 0x0,4208, x(mm): -15, y(mm): -2818, z(mm): 10842
+
+POS ID 0x0,4269, x(mm): 1, y(mm): -2785, z(mm): 10772
+
+POS ID 0x0,4328, x(mm): -42, y(mm): -2503, z(mm)
+: 10844
+
+POS ID 0x0,4388, x(mm): 47, y(mm): -2758, z(mm): 10833
+
+POS ID 0x0,4449, x(mm): -14, y(
+mm): -2352, z(mm): 11044
+
+POS ID 0x0,4503, x(mm): 15, y(mm): -2636, z(mm): 10876
+
+POS ID 0x0,4562, x(mm): -21, y(mm): 
+-2023, z(mm): 11011
+
+POS ID 0x0,4619, x(mm): -135, y(mm): -2627, z(mm): 10841
+
+POS ID 0x0,4679, x(mm): -3, y(mm): -2221, z(mm): 10973
+
+POS ID 0x0,4739, x(mm): -1, y(mm): -2044, z(mm): 10979
+
+POS ID 
+0x0,4799, x(mm): -150, y(mm): -2643, z(mm): 10757
+
+POS ID 0x0,4859, x(mm): -43, y(mm): -1674, z(mm): 10993
+
+POS ID 0x0,4919, x(mm): 6, y(mm): -2601, z(mm): 10872
+
+POS ID 0x0,4979, x(mm): 0, y(mm): -4786, z(mm): 6011
+
+POS ID 0x0,5033, x(mm): -32, y(mm): -2479, z(mm): 10837
+
+POS ID 0x0,5088, x(mm): -2, y(mm): -2514, z(mm): 10719
+
+P
+OS ID 0x0,5148, x(mm): 64, y(mm): -1323, z(mm): 10991
+
+POS ID 0x0,5208, x(mm): -40, y(mm): -932, z(mm): 11192
+
+POS ID 0x0,5268, x(mm): -13, y(mm): -1107, z(mm): 11016
+
+POS ID 0x0,5328, x(mm): -17, y(mm): -1222, z(mm):
+ 10910
+
+POS ID 0x0,5383, x(mm): -77, y(mm): -1977, z(mm): 11454
+
+POS ID 0x0,5442, x(mm): 13, y(mm): -1106, z(mm): 10892
+
+POS ID 0x0,5496, x(mm): -193, y(mm): -2418,
+ z(mm): 10573
+
+POS ID 0x0,5557, x(mm): -62, y(mm): -1023, z(mm): 11053
+
+POS ID 0x0,5611, x(mm): -53, y(mm): -2289, z(mm
+): 10624
+
+POS ID 0x0,5666, x
+(mm): -10, y(mm): -2434, z(mm): 10493
+
+POS ID 0x0,5727, x(mm): 9, y(mm): -1235, z(mm): 10673
+
+POS ID 0x0,5787, x(mm): -16, y(mm): -1044, z(mm): 10973
+
+POS ID 0x0,5847, x
+(mm): 6, y(mm): -1017, z(mm): 11053
+
+POS ID 0x0,5907, x(mm): -10, y(mm): -1558, z(mm): 10734
+
+P
+OS ID 0x0,5967, x(mm): -12, y(mm): -1702, z(mm): 10608
+
+POS ID 0x0,6028, x(mm): -46, y(mm): -1411, z(mm): 10544
+
+POS ID 0x0,6081, x(mm): -66, y(mm): -2169, z(mm): 1053
+7
+
+POS ID 0x0,6135, x(mm): -5, y(mm): -1998, z(mm): 10750
+
+POS ID 0x0,6190, x(mm): 22, y(mm): -2025, z(mm): 10745
+
+POS ID 0x0,6250, x(mm): -1, y(mm): -2198, z(mm): 10361
+
+POS ID 0x0,6310, x(mm): -6, y(mm): -1649, z(mm): 10596
+
+POS ID 0x0,6370, x(mm): 15, y(mm): -1294, z(mm): 10691
+
+POS ID 0x0,6430, x(mm): 31, y(mm): -1185, z(mm):
+ 10542
+
+POS ID 0x0,6491, x(mm): -43, y(mm): -1508, z(mm): 10462
+
+POS ID 0x0,6551, x(mm): 10, y(m
+m): -1697, z(mm): 10784
+
+POS ID 0x0,6604, x(mm): -21, y(mm): -21, z(mm): 10205
+
+POS ID 0x0,6652, x(mm): -36, y(mm): -36, z(mm): 10284
+
+POS ID 0x0,6713, x(mm): -62, y(mm): -622, z(mm):
+ 10463
+
+POS ID 0x0,6773, x(mm): -18, y(mm): -636, z(mm): 10481
+
+POS ID 0x0,6828, x(mm): -56, y(mm): -1960, z(mm): 10341
+
+POS ID 0x0,6889, x(mm): -416, y(mm): 974, z(mm): 12550
+
+POS ID 0x0,6949, x(
+mm): -52, y(mm): -834, z(mm): 10354
+
+POS ID 0x0,7009, x(mm): -11, y(mm): -504, z(mm): 10456
+
+POS
+ ID 0x0,7069, x(mm): -94, y(mm): -494, z(mm): 10430
+
+POS ID 0x0,7130, x(mm): -66, y(mm): -367, z(mm): 10492
+
+POS ID 0x0,7189, x(mm): -56, y(mm): -480, z(mm): 10227
+
+POS
+ ID 0x0,7249, x(mm): -103, y(mm): -751, z(mm): 10342
+
+POS ID 0x0,7310, x(mm): -54, y(mm): -319, z(mm): 10499
+
+POS ID 0x0,7369, x(mm): -5, y(mm): -377, z(mm): 10452
+
+POS ID 0x0,7430, x(mm): 12, y(mm): -407, z(mm): 1029
+7
+
+POS ID 0x0,7490, x(mm): -115, y(mm): -371, z(mm): 10270
+
+POS ID 0x0,7549, x(mm): -36, y(mm): -
+391, z(mm): 10244
+
+POS ID 0x0,7604, x(mm): -32, y(mm): 540, z(mm): 10013
+
+POS ID 0x0,7665, x(mm): -
+9, y(mm): -312, z(mm): 10223
+
+POS ID 0x0,7726, x(mm): -75, y(mm): -353, z(mm): 10222
+
+POS ID 0x0,7780, x(mm): -68, y(mm): 486, z(mm): 9976
+
+POS ID 0x0,7839, x(mm): -68, y(mm): -320, z(mm): 10168
+
+POS ID 0x0,7894, x(mm): -90, y(mm): 507, z(mm): 9999
+
+POS ID 0x0,7948, x(mm): -74, 
+y(mm): 414, z(mm): 9967
+
+POS ID 0x0,8002, x(mm): -32, y(mm): 434, z(mm): 9962
+
+POS ID 0x0,8064, x(mm): -22, y(mm): 400, z(mm): 9964
+
+POS ID 0x0,8118, x(mm): -21, y(mm): 400, z(mm): 9939
+
+POS ID 0x0,8172, x(mm): -22, y(mm): 374, z(mm): 9930
+
+POS ID 0x0,8231, x(mm): -54, y(mm): -412, z(mm): 10114
+
+POS ID 0x0,8292, x(mm): -41, y(mm): -349, z(mm): 10094
+
+P
+OS ID 0x0,8351, x(mm): -22, y(mm): -334, z(mm): 10126
+
+POS ID 0x0,8412, x(mm): -35, y(mm): -304, z(mm): 10108
+
+POS ID 
+0x0,8466, x(mm): -146, y(mm): 401, z(mm): 9950
+
+POS ID 0x0,8526, x(mm): -10, y(mm): -296, z(mm): 10128
+
+POS ID 0x0,8586, x(mm): 47, y(mm): -515, z(mm): 10119
+
+POS ID 0x0,8646, x(mm): -161, y(mm): -254, z(mm): 10098
+
+
+POS ID 0x0,8707, x(mm): -10, y(mm): -228, z(mm): 10091
+
+POS ID 0x0,8768, x(mm): -184, y(mm): -921, z(mm): 8922
+
+POS ID 0x0,8828, x(mm): -44, y(mm): -286, z(mm): 10037
+
+POS ID 0x0,8888, x(mm): -103, y(mm): -275, z(mm): 10066
+
+POS ID 0x0,8948, x(mm): -31, y(mm): -346, z(mm): 10002
+
+POS ID 0x0,9009, x(mm): 2, y(mm): -348, z(mm): 10007
+
+POS I
+D 0x0,9068, x(mm): -65, y(mm): -355, z(mm): 10026
+
+POS ID 0x0,9128, x(mm): -93, y(mm): -357, z(mm): 10023
+
+POS ID 0x0,9189, x(mm): -40, y(mm): -406, z(mm): 9967
+
+POS ID 0x0,9248, x(mm): -100, y(mm): -322, z(mm): 9977
+
+POS ID 0x0,9310, x(mm): -65, y(mm): -368, z(mm): 9993
+
+POS ID 0x0,9372, x(mm): -427, y(mm): -440, z(mm): 9898
+
+POS ID 0x0,9434, x(mm): -116, y(mm): -399, z(mm): 
+9959
+
+POS ID 0x0,9493, x(mm): -166, y(mm): -351, z(mm): 9952
+
+POS ID 0x0,9553, x(mm): -2, y(mm): -3023, z(mm): 1737
+
+POS ID 0x0,9614, x(mm): -50, y(mm): -372, z(mm): 99
+62
+
+POS ID 0x0,9673, x(mm): -167, y(mm): -434, z(mm): 9940
+
+POS ID 0x0,9734, x(mm): -187, y(mm):
+ -438, z(mm): 9880
+
+POS ID 0x0,9794, x(mm): -362, y(mm): -405, z(mm): 9948
+
+POS ID 0x0,9853, x(mm): -369, y(mm): -441, z(mm): 9932
+
+POS ID 0x0,9914, x(mm): -372, y(mm):
+ -496, z(mm): 9884
+
+POS ID 0x0,9974, x(mm): -186, y(mm): -464, z(mm): 9936
+
+POS ID 0x0,10034, x(
+mm): -81, y(mm): -547, z(mm): 9896
+
+POS ID 0x0,10094, x(mm): 10, y(mm): -525, z(mm): 9958
+
+POS ID 0x0,10155, x(mm): -90, y(mm): -573, z(mm): 9941
+
+POS ID 0x0,10214, x(mm): -284, y(mm): -560, z(mm): 9941
+
+POS ID 0x0,10274, x(mm): -351, y(mm): -527, z(mm): 9962
+
+POS 
+ID 0x0,10335, x(mm): -105, y(mm): -616, z(mm): 9959
+
+POS ID 0x0,10395, x(mm): -414, y(mm): -617, z(mm): 9936
+
+POS ID 0x0,10455, x(mm): -848, y(mm): -622, z(mm): 9913
+
+POS ID 0x0,10515, x(mm): -400, y(mm): -648, z(mm): 
+9977
+
+POS ID 0x0,10575, x(mm): 14, y(mm): -669, z(mm): 9977
+
+POS ID 0x0,10635, x(mm): -1340, y(mm): -686, z(mm): 9823
+
+POS ID 0x0,10695, x(mm): -502, y(mm): -737, z(mm): 9908
+
+POS ID 0x0,10756, x(mm): -546, y(mm): -778, z(mm): 9884
+
+POS ID 0x0,10816, x(mm): -197, y
+(mm): -853, z(mm): 9830
+
+POS ID 0x0,10875, x(mm): -825, y(mm): -868, z(mm): 9792
+
+POS ID 0x0,10936
+, x(mm): -1617, y(mm): -850, z(mm): 9679
+
+POS ID 0x0,10996, x(mm): -830, y(mm): -863, z(mm): 9838
+
+POS ID 0x0,11052, x(mm): -2475, y(mm): -694, z(mm)
+: 9394
+
+POS ID 0x0,11112, x(mm): -1406, y(mm): -969, z(mm): 9729
+
+POS ID
+ 0x0,11166, x(mm): -3038, y(mm): -721, z(mm): 9197
+
+POS ID 0x0,11220, x(mm): -2653, y(mm): -1219, z(mm): 9357
+
+POS ID 0x0,11276, x(mm): -3143, y(mm): -886, z(mm): 9224
+
+POS ID 0x0,11336, x(mm): -2482, y(mm): -1030, z(mm): 9525
+
+POS ID 0x0,11393, x(mm): -3167, y(mm): -854, z(mm): 9274
+
+POS ID 0x0,11
+452, x(mm): -2991, y(mm): -925, z(mm): 9321
+
+POS ID 0x0,11506, x(mm): -3540, y(mm): -877, z(mm): 9085
+
+POS ID 0x0,11567
+, x(mm): -2887, y(mm): -1141, z(mm): 9404
+
+POS
+ ID 0x0,11621, x(mm): -3528, y(mm): -976, z(mm): 9116
+
+POS ID 0x0,11681, x(mm): -2411, y(mm): -1278, z(mm): 9607
+
+POS ID 0x0,11742, x(mm): -1903, y(mm): -1313, z(mm): 9787
+
+POS ID 0x0,11802, x(mm): -3916, y(mm): -1012, z(mm): 8922
+
+POS ID 0x0,11862, x(mm): -2541, y(mm): -1507, z(mm): 9582
+
+POS ID 0x0,11922, x(mm): -2824, y(mm): -1520, z(mm): 9518
+
+POS ID 0x0,11982, x(mm): -2728, y(mm): -160
+9, z(mm): 9571
+
+POS ID 0x0,12043, x(mm): -3489, y(mm): -1615, z(mm): 9187
+
+POS ID 0x0,12103, x(mm)
+: -3231, y(mm): -1537, z(mm): 9373
+
+POS ID 0x0,12164, x(mm): -2914, y(mm): -1602, z(mm): 9470
+
+POS ID 0x0,12223, x(mm): -2914, y(mm): -1676, z(mm): 9426
+
+POS ID 0x0,12283, 
+x(mm): -3291, y(mm): -1736, z(mm): 9307
+
+POS ID 0x0,12344, x(mm): -3742, y(mm): -1789, z(mm): 9074
+
+POS ID 0x0,12404, x(mm): -3442, y(mm): -1852, z(mm): 9184
+
+POS ID 0x0,12465, x(mm): -3780, y(mm): -1983, z(mm): 8912
+
+POS ID 0x0,12524, x(mm): -3503, y(mm): -1910, z(mm): 9219
+
+POS ID 0x0,12584, x(mm): -3958, y(mm): -1
+969, z(mm): 8892
+
+POS ID 0x0,12645, x(mm): -3429, y(mm): -2079, z(mm): 9148
+
+POS ID 0x0,12705, x(mm): -3570, y(mm): -2086, z(mm): 9156
+
+POS ID 0x0,12766, x(mm): -3321, y(mm
+): -2102, z(mm): 9262
+
+POS ID 0x0,12827, x(mm): -3000, y(mm): -2137, z(mm): 9435
+
+POS ID 0x0,12889, x(mm): -3516, y(mm): -2062, z(mm): 9346
+
+POS ID 0x0,12943, x(mm): -3594, y(mm): -1987, z(mm): 9274
+
+POS ID 0x0,13003, x(mm): -2879, y(mm): -2297, z(mm): 9565
+
+POS ID 0x0,13058, x(mm): -3772, y(mm): -2076, z(mm): 9187
+
+POS ID 0x0,13118, x(mm): -2247, y(
+mm): -2395, z(mm): 9800
+
+POS ID 0x0,13178, x(mm): -2713, y(mm): -2556, z(mm): 9543
+
+POS ID 0x0,1323
+9, x(mm): -2487, y(mm): -2528, z(mm): 9716
+
+POS ID 0x0,13293, x(mm): -4282, y(mm): -2108, z(mm): 8986
+
+POS ID 0x0,13347, x(mm): -4219, y(mm): -2254, z(mm): 8908
+
+POS ID 0x0,13408, x(mm): -2056, y(mm): -2649, z(mm): 9800
+
+POS ID 0x0,13467, x
+(mm): -2903, y(mm): -2772, z(mm): 9529
+
+POS ID 0x0,13528, x(mm): -3291, y(mm): -2626, z(mm): 9554
+
+POS ID 0x0,13588, x(mm): -4545, y(mm): -2303, z(mm): 8886
+
+POS ID 0x0,13648, x(mm): -4154, y(mm): -2726, z(mm): 9044
+
+POS ID 0x0,13703, x(mm): -4358, y(mm): -2446, z(mm
+): 8900
+
+POS ID 0x0,13763, x(mm): -2951, y(mm): -2837, z(mm): 9592
+
+POS 
+ID 0x0,13817, x(mm): -1, y(mm): -5308, z(mm): 1482
+
+POS ID 0x0,13877, x(mm): -3060, y(mm): -2911, z(mm): 9578
+
+POS ID 0x0,13931, x(mm): -2, y(mm): -5431, z(mm): 1790
+
+POS ID 0x0,13987, x(mm): -11
+07, y(mm): -3118, z(mm): 10089
+
+POS ID 0x0,14049, x(mm): 
+-1476, y(mm): -2907, z(mm): 10359
+
+POS ID 0x0,14109, x(mm): -850, y(mm): -2868, z(mm): 10508
+
+POS 
+ID 0x0,14170, x(mm): -191, y(mm): -2773, z(mm): 10904
+
+POS ID 0x0,14231, x(mm): -386, y(mm): -2961, z(mm): 10757
+
+POS ID 0x0,14291, x(mm): -337, y(mm): -3159, z(mm): 10546
+
+POS ID 0x0,14352, x(mm): -286,
+ y(mm): -2575, z(mm): 11609
+
+POS ID 0x0,14412, x(mm): -1676, y(mm): -3004, z(mm): 10526
+
+POS ID 0x0
+,14472, x(mm): -464, y(mm): -3223, z(mm): 10387
+
+POS ID 0x0,14532, x(mm): -1573, y(mm): -3179, z(mm): 10403
+
+POS ID 0x0,14593, x(mm): -221, y(mm): -3241, z(mm): 10477
+
+POS 
+ID 0x0,14653, x(mm): -218, y(mm): -3313, z(mm): 10522
+
+POS ID 0x0,14713, x(mm): -690, y(mm): -3327, z(mm): 10535
+
+POS ID 0x0,14774, x(mm): -649, y(mm): -3508, z(mm): 10383
+
+POS ID 0x0,14833, x(mm): -587, y(mm): -3553, z(
+mm): 10355
+
+POS ID 0x0,14894, x(mm): -187, y(mm): -3479, z(mm): 10544
+
+POS ID 0x0,14954, x(mm): -942, y(mm): -3532, z(mm): 10501
+
+POS ID 0x0,15014, x(mm): -105, y(mm): -363
+5, z(mm): 10450
+
+POS ID 0x0,15075, x(mm): -407, y(mm): -3614, z(mm): 10462
+
+POS ID 0x0,15135, x(mm
+): -53, y(mm): -3785, z(mm): 10219
+
+POS ID 0x0,15195, x(mm): -377, y(mm): -3732, z(mm): 10352
+
+POS 
+ID 0x0,15255, x(mm): -488, y(mm): -3633, z(mm): 10561
+
+POS ID 0x0,15316, x(mm): -258, y(mm): -3901, z(mm
+): 10094
+
+POS ID 0x0,15377, x(mm): -501, y(mm): -3907, z(mm): 10212
+
+POS ID 0x0,15437, x(mm): -89,
+ y(mm): -3642, z(mm): 10695
+
+POS ID 0x0,15498, x(mm): -345, y(mm): -3681, z(mm): 10606
+
+POS ID 0x0,15558, x(mm): -215, y(mm): -3644, z(mm): 10756
+
+POS ID 0x0,15620, x(mm): 7, y(mm): -3693, z(mm): 10769
+
+
+POS ID 0x0,15680, x(mm): -302, y(mm): -3754, z(mm): 10752
+
+POS ID 0x0,15740, x(mm): -460, y(mm): -3687, z(mm): 10860
+
+POS ID 0x0,15800, x(mm): -193, y(mm): -3742, z(mm): 10869
+
+POS ID 0x0,15860, x(mm): -206, y(mm): -3716, z(mm): 10911
+
+POS ID 0x0,15921, x(mm): -20, y(
+mm): -3680, z(mm): 10976
+
+POS ID 0x0,15981, x(mm): -59, y(mm): -3747, z(mm): 10979
+
+POS ID 0x0,16043, x(mm): -24, y(mm): -3710, z(mm): 11097
+
+POS ID 0x0,1
+6103, x(mm): 11, y(mm): -3726, z(mm): 11032
+
+POS ID 0x0,16164, x(mm): -67, y(mm): -3758, z(mm): 11036
+
+POS ID 0x0,16219, x(mm): 0, y(mm): -4629, z(mm
+): 9444
+
+POS ID 0x0,16280, x(mm): -343, y(mm): -3198, z(mm): 11163
+
+POS ID 0x0,16340, x(mm): -37, y(mm): -3944, z(mm): 10863
+
+POS ID 0x0,16401, x(mm): -
+118, y(mm): -3924, z(mm): 10907
+
+POS ID 0x0,16462, x(mm): -75, y(mm): -3276, z(mm): 11011
+
+POS ID 0x0,16523, x(mm): -125, y(mm): -3906, z(mm): 10948
+
+POS ID 0x0,16577, x(mm): -393, y(mm): -3238, z(mm): 11085
+
+POS ID 0x0,16636, x(mm): -30, y(mm): -3982, z(mm): 10978
+
+POS ID 0x0,16697, x(mm): -209, y(mm): -4052, z(mm): 10960
+
+POS ID 0x0,16757, x(mm): -106, y(mm): -4026, z(mm): 10990
+
+POS ID 0x0,16814, x(mm): -104, y(mm): -3320, z(mm): 11140
+
+POS ID 0x0,16868, x(mm): -10
+73, y(mm): -3260, z(mm): 11189
+
+POS ID 0x0,16927, x(mm): -22, y(mm): -4043, z(mm): 11139
+
+POS ID 0x0,16984, x(mm): -653, y(mm): -3206, z(mm): 11247
+
+POS ID 0x0,17044, x(mm): -152, y(mm): -3753, z(mm): 11441
+
+POS ID 0x0,17106, x(mm): 17, y(mm): -2916, z(mm): 11826
+
+POS ID 0x0,17169, x(mm): -70, y(mm): -3591, z(mm): 1
+1770
+
+POS ID 0x0,17228, x(mm): -176, y(mm): -2950, z(mm): 11855
+
+POS ID 0x0,17289, x(mm): -106, y(mm): -5337, z(mm): 10732
+
+POS ID 0x0,17343, x(mm): -121, y(mm): -3132, z(mm): 11536
+
+POS ID 0x0,17399, x(mm): 0, y(mm): -3198, z(mm): 11305
+
+POS ID 0x0,17459, x(mm): -85, y(mm): -3847, z(mm): 11259
+
+POS ID 0x0,17513, x(mm): 0, y(mm): -5105, z(mm): 9357
+
+POS ID 0x0,17575, x(mm): 0, y(mm): -5548, z(mm): 9596
+
+POS ID 0x0,
+17635, x(mm): -74, y(mm): -4033, z(mm): 11065
+
+POS ID 0x0,17695, x(mm): -52, y(mm): -4328, z(mm): 10941
+
+POS ID 0x0,17756, x(mm): -152, y(mm): -3720, z(mm): 11414
+
+POS ID 0x0,17816, x(mm): -83, y(mm): -3748, z(mm): 11797
+
+POS ID 0x0,17878, x(mm): -34, y(mm): -4982, z(mm): 10922
+
+POS ID 0x0,17938, x(
+mm): -23, y(mm): -4457, z(mm): 10817
+
+POS ID 0
+x0,17992, x(mm): -201, y(mm): -2538, z(mm): 11984
+
+POS ID 0x0,18052, x(mm): -206, y(mm): -3824, z(mm): 10934
+
+POS ID 0x0,18112, x(mm): -19, y(mm): -3847, z(mm): 10946
+
+POS ID 0x0,18166, x(mm): -59, y(mm): -2634, z(mm): 11879
+
+POS ID 0x0,18214, x(mm): 15, y(mm): 15, z(mm): 11518
+
+POS
+ ID 0x0,18275, x(mm): -67, y(mm): -3769, z(mm): 11048
+
+POS ID 0x0,18335, x(mm): -99, y(mm): -3158, z(mm): 11947
+
+POS ID 0x0,18396, x(mm): -43, y(mm): -3268, z(mm): 11820
+
+POS ID 0x0,18455, x(mm): -412, y(mm): -3249, z(mm): 11681
+
+POS ID 0x0,18515, x(mm): -68, y(mm): -3211, z(mm): 11765
+
+POS ID 0x0,18576, x(mm): -206, y(mm): -3197, z(mm): 11649
+
+POS ID 0x0,18636, x(mm): -180, y(mm): -3556, z(mm): 11018
+
+POS ID 0x0,18697, x(mm): -51, y(mm): -3969, z(mm): 10793
+
+POS ID 0x0,18756, x(mm): -121, y(mm): -3663, z(mm): 10931
+
+POS ID 0x0,18810, x(mm): -140, y(mm): -2771, z(mm): 11111
+
+POS ID 0x0,18865, x(mm): -104, y(mm): -2813, z(mm): 11012
+
+PO
+S ID 0x0,18922, x(mm): -65, y(mm): -2868, z(mm): 10963
+
+POS ID 0x0,18976, x(mm): -96, y(mm): -2763, z(mm): 11056
+
+POS ID 0x0,19033, x(mm): -183, y(mm): -2784, z(mm): 11199
+
+POS ID 0x0,19087, x(mm): -375, y(mm): -2964, z
+(mm): 10971
+
+POS ID 0x0,19141, x(mm): -353, y(mm): -3557, z(mm): 10863
+
+POS ID 0x0,19202, x(mm): -63, y(mm): -3566, z(mm
+): 11067
+
+POS ID 0x0,19256, x(mm): -78, y(mm): -2733, z(mm): 11259
+
+POS ID 0x0,19311, x(mm): -246, y(mm): -2990, z(mm): 11128
+
+POS ID 0x0,19365, x(mm): -204, y(mm): -3355, z(mm): 10773
+
+POS ID 0x0,19420, x(mm): -46, y
+(mm): -4007, z(mm): 10553
+
+POS ID 0x0,19474, x(mm): -341, y(mm): -3021, z(mm): 11220
+
+POS ID 0x0,19528, x(mm): -108, y(mm): -3252, z(mm): 10955
+
+POS ID 0x0,19582, x(mm): -102, y(mm): -3661, z(mm): 10635
+
+POS ID 0x0,19643, x(mm): -1, y(mm): -4256, z(mm): 10553
+
+POS ID 0x0,19703, x(mm):
+ -29, y(mm): -3451, z(mm): 10602
+
+POS ID 0x0,19
+758, x(mm): -101, y(mm): -3459, z(mm): 10654
+
+POS ID 0x0,19812, x(mm): -956, y(mm): -3400, z(mm): 10896
+
+POS ID 0x0,19866, x(mm): -114, y(mm): -3512, z(mm): 10748
+
+POS ID 0x0,19920, x(mm):
+ -129, y(mm): -4140, z(mm): 10875
+
+POS ID 0x0,19975, x(mm): -122, y(mm): -2828, z(mm): 11129
+
+POS ID 0x0,20035, x(mm): -73, y(mm): -3846, z(mm): 10679
+
+POS ID 0x0,20090, x(mm): -19, y(mm): -5462, z(mm): 10278
+
+POS ID 0x0,20145, x(mm): -126, y(mm): -4458, z(mm): 10494
+
+POS ID 0x0,20200, x(mm): -121, y(mm): -3716, z(mm): 1
+0926
+
+POS ID 0x0,20260, x(mm): -247, y(mm): -4549, z(mm): 10919
+
+POS ID 0x0,20321, x(mm): -17, y(m
+m): -4092, z(mm): 11416
+
+POS ID 0x0,20381, x(mm): -32, y(mm): -5683, z(mm): 10405
+
+POS ID 0x0,20442, x(mm): -127, y(mm): -3819, z(mm): 12205
+
+POS ID 0x0,20496, x(mm): -79, y(mm): -5357, z(mm): 10495
+
+POS ID 0x0,20557, x(mm): -121, y(mm): -3534, z(mm): 12433
+
+POS ID 0x0,20619, x(mm): -105, y(mm): -4303, z
+(mm): 12092
+
+POS ID 0x0,20682, x(mm): -3635, y(mm): -2126, z(mm): 14403
+
+POS ID 0x0,20743, x(mm): 46, y(mm): -3586, z(mm): 12399
+
+POS ID 0x0,20800, x(mm): -22, y(mm): -5133, z(mm): 10833
+
+POS ID 0x0,20859, x(mm): -24, y(mm): -4335, z(mm): 12069
+
+POS ID 0x0,20920, x(mm): 89, y(mm): -3503, z(mm): 12002
+
+POS ID 0x0,20980, x(mm): -217, y(mm): -3801, z(mm): 11690
+
+POS ID 0x0,21041, x(mm): -36, y(mm): -4205, z(mm): 1
+2146
+
+POS ID 0x0,21101, x(mm): -33, y(mm): -4122, z(mm): 12170
+
+POS ID 
+0x0,21154, x(mm): -196, y(mm): -4069, z(mm): 12148
+
+POS ID 0x0,21209, x(mm): -92, y(mm): -4301, z(mm): 12068
+
+POS ID 0x0,21263, x(mm): 8, y(mm): -4312, z(mm): 12050
+
+POS ID 0x0,21323, x(mm): -125, y(mm): -4967, z(mm): 11794
+
+POS ID 0x0,21384, x(mm): -114, y(mm): -5009, z(mm): 11780
+
+POS ID 0x0,21444, x(mm): -7, y(mm): -5235, z(mm): 11621
+
+POS ID 0x0,21505, x(mm): -53, y(mm): -4726, 
+z(mm): 11919
+
+POS ID 0x0,21564, x(mm): -123, y(mm): -4690, z(mm): 11915
+
+POS ID 
+0x0,21626, x(mm): 52, y(mm): -4103, z(mm): 12154
+
+POS ID 0x0,21681, x(mm): -107, y(mm): -4373, z(mm): 12073
+
+POS ID 0x0,21742, x(mm): 42, y(mm): -4263, z(mm): 12090
+
+POS ID 0x0,21804, x(mm): -59, y(mm): -4946, z(mm): 11113
+
+POS ID 0x0
+,21859, x(mm): -22, y(mm): -4715, z(mm): 11438
+
+POS ID 0x0,21919, x(mm): -5, y(mm): -4348, z(mm): 11616
+
+POS ID 0x0,21980, x(mm): -6, y(mm): -6085, z(mm): 10885
+
+POS ID 0
+x0,22040, x(mm): 22, y(mm): -8434, z(mm): 8013
+
+POS ID 0x0,22099, x(mm): -170, y(mm): -4621, z(mm): 11284
+
+POS ID 0x0,22160, x(mm): -368, y(mm): -4516, z(mm): 11799
+
+POS ID 0x0,22221, x(mm): 29, y(mm): -4536, z(mm): 11534
+
+POS ID 0x0,22278, x(mm): -67, y(mm): -4369, z(mm): 12025
+
+POS ID 0x0,22338, x(mm): -24, y(mm): -4540, z(mm): 11532
+
+POS ID 0x0,22397, x(mm): 9, y(mm): -4234, z(mm): 12152
+
+POS ID 0x0,22452, x(mm): -10, y(mm): -4339, z(mm): 12086
+
+POS ID 0x0,22512, x(mm): 24, y(mm): -4470, z(mm): 12030
+
+POS ID 
+0x0,22573, x(mm): -406, y(mm): -4374, z(mm): 12037
+
+POS ID 0x0,22627, x(mm): -25, y(mm): -4226, z(mm): 12128
+
+POS ID 0x0,22687, x(mm): -19, y(mm): -4614, z(mm): 11964
+
+POS ID 0x0,22747, x(mm): 16, y(mm): -4265, z(mm): 12112
+
